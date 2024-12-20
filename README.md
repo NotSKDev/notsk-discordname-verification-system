@@ -32,10 +32,11 @@ A FiveM server script designed to verify if a user's Discord display name matche
 Update the following variables in `server.lua` to set up your server:  
 
 ```lua
-local guildId = "your-discord-guild-id"
-local botToken = "your-discord-bot-token"
-local logAcceptedChannelId = "your-log-accepted-channel-id"
-local logRejectedChannelId = "your-log-rejected-channel-id"
+local guildId = "paste your discord guild id (server id)!!"
+local botToken = "paste your discord bot token here!!"
+local logAcceptedChannelId = "paste your name-verify accept log channel id!!"
+local logRejectedChannelId = "paste your name-verify reject log channel id!!"
+
 ```
 
 ### **Steps to Configure**  
