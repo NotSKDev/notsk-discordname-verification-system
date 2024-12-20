@@ -1,7 +1,7 @@
-local guildId = "paste your discord guild id(server id)!!"
-local botToken = "paste youur discord bot token here!!"
+local guildId = "paste your discord guild id (server id)!!"
+local botToken = "paste your discord bot token here!!"
 local logAcceptedChannelId = "paste your name-verify accept log channel id!!"
-local logRejectedChannelId = "paste your name-verify reject log channel id "
+local logRejectedChannelId = "paste your name-verify reject log channel id!!"
 
 local function GetDiscordDisplayName(discordId, guildId, botToken)
     local displayName
