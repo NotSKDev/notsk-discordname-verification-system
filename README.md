@@ -19,11 +19,11 @@ A FiveM server script designed to verify if a user's Discord display name matche
 ### **Verification Process**  
 - **Accepted:**  
   If the Discord name matches the FiveM identifier, the user connects successfully.  
-  ![Accept Log](https://cdn.discordapp.com/attachments/1256542322653401174/1319580947829493780/Screenshot_2024-12-20-13-36-51-988_com.discord-edit.jpg?ex=67667b06&is=67652986&hm=6d611c6a0c143d27e9ead48c6c3c3bb879e7a6c693609ddca52260c78f1d57d8&)
+  ![Accept Log](https://r2.fivemanage.com/DFoKiwmVyTTIk1MRmQKVF/images/Screenshot_2024-12-20-13-36-51-988_com.discord-edit.jpg)
 
 - **Rejected:**  
   If the Discord name does not match the FiveM identifier, the user is rejected from connecting.  
-  ![Reject Log](https://cdn.discordapp.com/attachments/1256542322653401174/1319580960680968222/Screenshot_2024-12-20-13-37-27-999_com.discord-edit.jpg?ex=67667b09&is=67652989&hm=899fe1e83f20e5bd7a1fedae9a0643104dd0c08577b1bb05fa9699aa8c478611&)  
+  ![Reject Log](https://r2.fivemanage.com/DFoKiwmVyTTIk1MRmQKVF/images/Screenshot_2024-12-20-13-37-27-999_com.discord-edit.jpg)  
 
 ---
 
