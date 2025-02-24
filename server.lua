@@ -35,7 +35,7 @@ local function SendEmbedMessageToChannel(channelId, userId, title, description, 
     })
     PerformHttpRequest("https://discord.com/api/v10/channels/" .. channelId .. "/messages", function(err, text, headers)
         if err ~= 200 then
-            print("Failed to send embed message to channel.")
+            print("Failed to send log embed message to channel.")
         end
     end, "POST", payload, { 
         ["Content-Type"] = "application/json", 
